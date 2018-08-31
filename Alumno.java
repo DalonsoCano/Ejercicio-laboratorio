@@ -14,4 +14,8 @@ public class Alumno
         
     }
     
+    public void dimeClave(String clave)
+    {
+        
+    }
 }
